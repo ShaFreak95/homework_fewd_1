@@ -165,3 +165,10 @@ body {
     align-content: center;
     /* margin-top: 6px; */
 }
+
+/* Footer */
+footer {
+    font-weight: bold;
+    margin: 5px 0;
+    text-align: end;
+}
